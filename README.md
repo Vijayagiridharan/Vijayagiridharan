@@ -2,7 +2,7 @@
 
 <div align="center">
 
-🚀 **Software Engineer | Full Stack Developer | Technology Enthusiast**
+🚀 **Software Engineer | Full Stack Developer | Technology Enthusiast **
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=MS+CS+Student+at+Purdue+University;Full+Stack+Developer;Software+Engineer)](https://git.io/typing-svg)
 
