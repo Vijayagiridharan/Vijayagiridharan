@@ -102,7 +102,7 @@ I love working on projects that push boundaries and inspire creativity. Whether 
 ### 🌟 Featured Projects
 
 <details open>
-<summary><b><a href="https://github.com/Vijayagiridharan/dons-pay">Don's Pay</a></b> - Mobile Payment Application (Sep 2024 – Dec 2024)</summary>
+<summary><b><a href="https://github.com/Vijayagiridharan/Don-s-Pay">Don's Pay</a></b> - Mobile Payment Application (Sep 2024 – Dec 2024)</summary>
 <ul>
   <li>💳 Designed a secure campus payment app using Don Dollars and Meal Swipes</li>
   <li>📱 Developed QR code-based payment functionality with real-time balance updates</li>
@@ -112,7 +112,7 @@ I love working on projects that push boundaries and inspire creativity. Whether 
 </details>
 
 <details open>
-<summary><b><a href="https://github.com/Vijayagiridharan/food-truck">Food Truck Application</a></b> - Backend Development (Jan 2024 – May 2024)</summary>
+<summary><b><a href="https://github.com/Vijayagiridharan/Food-Truck-Application-API-">Food Truck Application</a></b> - Backend Development (Jan 2024 – May 2024)</summary>
 <ul>
   <li>🚀 Developed secure user authentication and CRUD APIs for menu management</li>
   <li>📊 Implemented optimized SQL queries for efficient database interactions</li>
