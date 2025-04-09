@@ -84,21 +84,6 @@ I love working on projects that push boundaries and inspire creativity. Whether 
 </div>
 
 ---
-
-### 💼 Professional Experience
-
-<details open>
-<summary><b>MEAN Web Developer Intern</b> - Cognizant Technology Solutions (Remote)</summary>
-
-*November 2022 - March 2023*
-
-- 🔨 Developed and maintained scalable web applications using MongoDB, AngularJS, ExpressJS, and NodeJS
-- 🚀 Debugged complex codebases and optimized web application performance
-- 👥 Enhanced team productivity through seamless cross-functional communication
-
-</details>
-
----
 ### 🌟 Featured Projects
 
 <details open>
