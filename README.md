@@ -83,47 +83,9 @@ I love working on projects that push boundaries and inspire creativity. Whether 
 
 </div>
 
----
-### 🌟 Featured Projects
-
-<details open>
-<summary><b><a href="https://github.com/Vijayagiridharan/Don-s-Pay">Don's Pay</a></b> - Mobile Payment Application (Sep 2024 – Dec 2024)</summary>
-<ul>
-  <li>💳 Designed a secure campus payment app using Don Dollars and Meal Swipes</li>
-  <li>📱 Developed QR code-based payment functionality with real-time balance updates</li>
-  <li>🔐 Created robust database schemas and RESTful APIs for transaction management</li>
-  <li>🛠️ Technologies: React Native, Spring Boot, MySQL, Render</li>
-</ul>
-</details>
-
-<details open>
-<summary><b><a href="https://github.com/Vijayagiridharan/Food-Truck-Application-API-">Food Truck Application</a></b> - Backend Development (Jan 2024 – May 2024)</summary>
-<ul>
-  <li>🚀 Developed secure user authentication and CRUD APIs for menu management</li>
-  <li>📊 Implemented optimized SQL queries for efficient database interactions</li>
-  <li>🔒 Utilized bcrypt for secure password hashing</li>
-  <li>🛠️ Technologies: Python, Flask, Flask-SQLAlchemy, MySQL</li>
-</ul>
-</details>
-
-<details open>
-<summary><b><a href="https://github.com/Vijayagiridharan/portfolio-builder">Portfolio Builder</a></b> - Online Portfolio Generator (Sep 2023 – Dec 2023)</summary>
-<ul>
-  <li>🎨 Engineered a tool to convert resumes into interactive online portfolios</li>
-  <li>🔄 Developed real-time portfolio preview feature using React.js and Redux</li>
-  <li>✅ Implemented JWT authentication and Cypress end-to-end testing</li>
-  <li>🛠️ Technologies: React.js, Redux, Bootstrap, JWT, Axios, Cypress, Render</li>
-</ul>
-</details>
-
 
 ---
 
-### 🌱 Leadership & Activities
-
-- Led voluntary initiatives including blood donation drives
-- Organized tree planting campaigns and marathon events
-- Coordinated logistics for distinguished guest visits during undergraduate studies
 
 ---
 
