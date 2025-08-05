@@ -25,35 +25,6 @@ I love working on projects that push boundaries and inspire creativity. Whether 
 
 ---
 
-### 🎓 Education
-
-<details open>
-<summary><b>Purdue University Fort Wayne</b> (Aug 2023 – May 2025)</summary>
-
-**Master of Science in Computer Science**
-- Web Development
-- Cryptography and Network Security
-- Algorithm Design Analysis and Implementation
-- Database Design
-- Software Project Management
-- Software Engineering
-- Human-Computer Interaction
-- Cyberwarfare
-
-</details>
-
-<details>
-<summary><b>Sri Sairam Engineering College</b> (Aug 2018 – May 2022)</summary>
-
-**Bachelor of Engineering in Electronics and Communication**
-- Problem Solving and Python Programming
-- Cloud Computing
-- Data Structures in C
-- Machine Learning Techniques
-
-</details>
-
----
 
 ### 🛠️ Technical Skills
 
