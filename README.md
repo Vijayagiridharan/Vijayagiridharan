@@ -13,8 +13,6 @@
 
 ---
 
-👨‍💻 About Me
-
 ### 👨‍💻 About Me
 
 I'm a Software Engineer passionate about building scalable systems and delightful user experiences. My focus areas include:
