@@ -4,7 +4,7 @@
 
 🚀 **Software Engineer | Full Stack Developer | Technology Enthusiast **
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=MS+CS+Student+at+Purdue+University;Full+Stack+Developer;Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=MS+CS+at+Purdue+University;Full+Stack+Developer;Software+Engineer)](https://git.io/typing-svg)
 
 <div align="center" style="margin-bottom: 20px;">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Coding Animation" width="400px" style="display: block; margin: auto; border-radius: 10px;"/>
@@ -15,9 +15,13 @@
 
 👨‍💻 About Me
 
-Hi there! 👋 I'm a Master's student in Computer Science at Purdue University Fort Wayne, driven by a passion for creating innovative and scalable software solutions.
-
-💻 I am currently working on full-stack projects, gaining hands-on experience with cutting-edge technologies. My goal is to become a full-stack software developer who thrives on solving complex challenges and delivering impactful results.
+I build scalable backend systems and intuitive user interfaces, with a focus on:
+Java/Spring Boot: High-availability APIs, microservices, and caching (e.g., optimized query performance by 30%).
+Full-Stack Projects:
+Don’s Pay: Campus payment app with Spring Boot + React Native.
+Food Truck API: Flask backend with SQL optimization.
+DevOps: AWS (EC2/S3/LightSail), Docker, and automated testing (JUnit/Mockito).
+Passionate about clean architecture, performance tuning, and collaborative coding. Reach out to discuss tech or potential opportunities!
 
 🌟 What drives me?
 I love working on projects that push boundaries and inspire creativity. Whether it's designing intuitive user interfaces, building robust backends, or solving tough coding problems, I'm always up for the challenge.
