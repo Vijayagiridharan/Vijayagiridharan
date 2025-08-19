@@ -15,13 +15,30 @@
 
 👨‍💻 About Me
 
-I build scalable backend systems and intuitive user interfaces, with a focus on:
-Java/Spring Boot: High-availability APIs, microservices, and caching (e.g., optimized query performance by 30%).
-Full-Stack Projects:
-Don’s Pay: Campus payment app with Spring Boot + React Native.
-Food Truck API: Flask backend with SQL optimization.
-DevOps: AWS (EC2/S3/LightSail), Docker, and automated testing (JUnit/Mockito).
-Passionate about clean architecture, performance tuning, and collaborative coding. Reach out to discuss tech or potential opportunities!
+### 👨‍💻 About Me
+
+I'm a Software Engineer passionate about building scalable systems and delightful user experiences. My focus areas include:
+
+**🛠️ Backend Development**  
+- Java/Spring Boot (High-availability APIs, Microservices)
+- Performance optimization (Achieved 30% query improvement through caching)
+- Database design & optimization (SQL/NoSQL)
+
+**🌐 Full-Stack Projects**  
+- [Don's Pay](https://github.com/Vijayagiridharan/Don-s-Pay) - Campus payment app (Spring Boot + React Native)
+- [Food Truck API](https://github.com/Vijayagiridharan/Food-Truck-Application-API-) - Flask backend with SQL optimization
+
+**⚙️ DevOps & Tools**  
+- AWS (EC2, S3, LightSail)
+- Docker & Containerization
+- Automated Testing (JUnit, Mockito)
+
+I'm passionate about:
+- Clean, maintainable architecture
+- Performance tuning and optimization
+- Collaborative problem-solving
+
+💡 Always open to discussing tech, opportunities, or potential collaborations!
 
 🌟 What drives me?
 I love working on projects that push boundaries and inspire creativity. Whether it's designing intuitive user interfaces, building robust backends, or solving tough coding problems, I'm always up for the challenge.
